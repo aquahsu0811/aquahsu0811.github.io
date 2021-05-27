@@ -43,6 +43,11 @@ header {
   #divpong {
     visibility: hidden;
   }
+  .languagechange {
+    top: -35px;
+    left: -7rem;
+    width: 9rem;
+  }
 }
 
 @media screen and (min-width:600px) {
@@ -55,6 +60,11 @@ header {
     left: 30%;
     width: 70%;
     font-size: 4rem;
+  }
+  .languagechange {
+    top: -35px;
+    left: -10rem;
+    width: 9rem;
   }
 }
 
@@ -444,3 +454,5 @@ video {
 .navbar-name li a:hover {
   background-color: rgba(0, 0, 0, 0.1);
 }
+
+
