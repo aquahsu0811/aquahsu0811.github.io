@@ -60,14 +60,14 @@ $(document).ready(function () {
 					, "Multiple Kinect V2 : Build 3D Model"
 					, "Internship : 3D Scanning with Optical Inspection Instruments"]
 			englicontent = [
-				"<li> AI Virtual Fence System : Intrusion detection 、abnormal occurrence detection.。</li ><li> User can draw virtual fence with polygon, box, and line, also adjust AI confidence randomly.。</li><li> Can be easily applied to different environment ,  and search event list in real-time streaming.</li><li> Alert Event :  flow counting, residence time , region counting</li>",
-				"<li>AI detection API : Including people shape, gender , emotion, age detection, and bounding box unique ID tracker。</li >",
+				"<li> AI Virtual Fence System : Intrusion detection, abnormal occurrence detection.</li ><li> User can draw virtual fence with polygon, box, and line, also adjust AI confidence randomly.</li><li> Can be easily applied to different environment ,  and search event list in real-time streaming.</li><li> Alert Event :  flow counting, residence time , region counting.</li>",
+				"<li> AI detection API : Including people shape, gender , emotion, age detection, and bounding box unique ID tracker.</li >",
 				"<li> Acap plugin</li><li> Detect motion and send camera frame to server. </li>",
-				"<li> Detect Irregularities : seat belt , smoking , phone using, drowsy driving </li>",
-				"<li> Demo AI detection with face emotion, gender, and age </li>",
-				"<li>A system for detection LED lamp : detect position , LED lamp rotation angle and color.</li>",
-				"  <li>Calibrate camera initial position, and recalculate precise cloud points 。</li><li> with ICP algorithm, the filter point cloud noise.</li>",							
-				" <li> Point Cloud Visualization System 。</li><li>User could operate system with point cloud data , analyze and rebuild point cloud, then display with detail information.",							
+				"<li> Detect Irregularities : seat belt , smoking , phone using, drowsy driving. </li>",
+				"<li> Demo AI detection with face emotion, gender, and age. </li>",
+				"<li> A system for detection LED lamp : detect position , LED lamp rotation angle and color.</li>",
+				"<li> Calibrate camera initial position, and recalculate precise cloud points with ICP algorithm, filter point cloud noise.</li>",							
+				"<li> Point Cloud Visualization System.</li><li>User could operate system with point cloud data , analyze and rebuild point cloud, then display with detail information.",							
 			]
 			for (let i = 0; i < tag.length; i++) {
 				$(tag[i]).text(engContent[i]);
