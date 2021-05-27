@@ -44,9 +44,8 @@ header {
     visibility: hidden;
   }
   .languagechange {
-    top: -35px;
-    left: -7rem;
     width: 9rem;
+    margin: 1rem 31px;  
   }
 }
 
@@ -62,8 +61,6 @@ header {
     font-size: 4rem;
   }
   .languagechange {
-    top: -35px;
-    left: -10rem;
     width: 9rem;
   }
 }
@@ -456,3 +453,6 @@ video {
 }
 
 
+.abc {
+  color:red
+}
