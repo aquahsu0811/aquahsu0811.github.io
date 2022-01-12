@@ -3941,7 +3941,7 @@
  }
  
  .modal-popup__desc p{
-     text-align: justify;
+     text-align: left;
      line-height:25px;
  }
  
@@ -3953,7 +3953,7 @@
  .aboutme-text p{
      font-size: 20px;
      line-height:25px;
-     text-align: justify;
+     text-align: left;
  }
  
  .aboutme-text p span {
