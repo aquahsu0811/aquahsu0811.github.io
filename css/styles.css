@@ -4530,6 +4530,11 @@
      fill: white;
  }
  
+ .skill-icon {
+     width: 64px;
+     height: 64px;
+ }
+
  /* ------------------------------------------------------------------- 
   * responsive:
   * contact
